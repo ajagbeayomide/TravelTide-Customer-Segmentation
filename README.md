@@ -36,5 +36,5 @@ I engineered six distinct cohorts based on demographics and behavioral data:
 ## 📁 Repository Structure
 - `TravelTide_Report.pdf`: 3-page detailed analysis.
 - `Presentation_Slides.pdf`: Visual deck for stakeholders.
-- `queries.sql`: Documented SQL logic for cohort extraction.
+- `SQL QUERY.pdf`: Documented SQL logic for cohort extraction.
 - `final_data.csv`: The processed dataset used for visualization.
